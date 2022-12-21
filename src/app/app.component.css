@@ -1,0 +1,26 @@
+div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    height:750px;
+
+}
+form{
+    border: 1px solid black;
+    height: 600px;
+    width: 500px;
+    
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 300px;
+    display: block;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    padding: 10px;
+    margin: 10px;
+}
